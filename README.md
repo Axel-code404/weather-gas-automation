@@ -68,3 +68,7 @@ Apps Scriptの「トリガー」より、
 
 外部API連携、データ整形、スプレッドシート操作、
 自動化処理の実装スキルを示すために制作しました。
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca9cb7f6-31b1-46c1-a6dd-fcb5014cde46" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb5581bd-6e34-4947-8511-b522986707cf" />
+
+
